@@ -1,6 +1,6 @@
 # Vocal Care
 
-![Application logo ](https://github.com/YounesAO/PFA-Vocal-Care/blob/main/vocal-care/assets/uploads/logo.png)
+![Application logo ](https://github.com/YounesAO/PFA-Vocal-Care/blob/main/vocal-care/assets/uploads/logo1.png)
 
 ## Overview
 
