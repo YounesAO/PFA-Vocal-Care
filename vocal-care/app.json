@@ -1,0 +1,49 @@
+{
+  "expo": {
+    "name": "vocal-care",
+    "slug": "vocal-care",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/uploads/logo.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/uploads/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.ensaj.vocalcare",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/uploads/logo.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/uploads/logo.png"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "3596d93a-bf1e-42f6-a5a9-537b139f8801"
+      }
+    }
+  }
+}
