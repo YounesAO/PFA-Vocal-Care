@@ -62,7 +62,7 @@ For the mobile and web apps, please refer to their respective directories for sp
 
 ## 👨‍💻 Authors
 
-- ASSIAB OUJNAH
+- ASSIA BOUJNAH
 - ABDELLAH EL GHARBI
 - YOUNES AIT OUAHDA
 
