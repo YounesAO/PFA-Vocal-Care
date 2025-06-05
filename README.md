@@ -25,10 +25,10 @@ The goal is to **simplify** and **automate** the vocal health assessment process
 
 ## 💡 Technologies Used
 
-- **Mobile Frontend**: Flutter / React Native *(to be confirmed based on codebase)*
-- **Backend**: Node.js / Python Flask / Django *(to be confirmed based on codebase)*
+- **Mobile Frontend**: Expo  React Native 
+- **Backend**: Python Flask 
 - **Machine Learning / AI**: Pretrained models for vocal pathology detection.
-- **Database**: Firebase / MongoDB *(to be confirmed based on codebase)*
+- **Database**:  MongoDB 
 - **Web Frontend**: (to be completed based on codebase)
 - **Methodology**: Agile Scrum
 - **Modeling**: UML
@@ -69,5 +69,3 @@ Chouaib Doukkali University, Department of Telecommunications, Networks and Comp
 Academic year 2023/2024
 
 ---
-
-*Please complete the to-be-confirmed sections and enrich as the project evolves or as more details become available.*
