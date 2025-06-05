@@ -22,7 +22,9 @@ The goal is to **simplify** and **automate** the vocal health assessment process
 - Display of results with personalized recommendations.
 - User history and tracking of past analyses.
 - Dedicated web application for data management and visualization.
+## 🗰 Software Architecture
 
+![Vocal Care Architecture](https://github.com/user-attachments/assets/55b2d738-f400-4135-8d17-5d57af96468d)
 ## 💡 Technologies Used
 
 - **Mobile Frontend**: Expo  React Native 
