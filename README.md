@@ -1,28 +1,73 @@
-# Vocal Care
+# 📱 Vocal Care
 
 ![Application logo ](https://github.com/YounesAO/PFA-Vocal-Care/blob/main/vocal-care/assets/uploads/logo1.png)
 
-## Overview
+## 🧠 Overview
 
-This project is developed as part of the PFA (Projet de Fin d'Année) for the subject of deploying an ML model for detecting vocal pathologies. 
-It also focuses on data collection to improve the model.
-## Content
-- Mobile App using Expo React-Native Toolbox.
-- Website for managing the database, exporting data, uploading, and keeping the model updated.
-- Flask API connected to the MongoDB in the backend.
+**Vocal Care** is an intelligent mobile application designed for the **automatic screening of vocal pathologies**.  
+Developed as part of the first year of the Engineering cycle at the Department of Computer Science and Emerging Technologies (IITE), this project aims to:
 
-## Installation
+- Enable users to record their voice easily.
+- Automatically analyze vocal symptoms using AI.
+- Provide a preliminary diagnosis of vocal disorders.
+- Offer personalized recommendations for users and healthcare professionals.
 
-To get started with this project, clone the repository and install the necessary dependencies: Flask and MongoDB.
+The goal is to **simplify** and **automate** the vocal health assessment process for clinicians, while ensuring effective tracking and follow-up for patients.
 
-## To run the application:
+## 🔧 Key Features
 
-1. Run the Flask API located in `./AdminPanel/App.py`.
-2. Open the Expo project file located in `./Vocal-care`.
-3. Ensure that the config file in `vocal-care/assets/config.json` has the same IP address and port as the Flask server.
-4. Navigate to `/vocal-care` and run `npm install` to install Expo's dependencies.
-5. Open an Android emulator and type in the terminal of `/vocal-care` `npx expo start`.
-    - To run the application in the emulator, type `a`.
-    - To preview the mobile app in a browser, type `w`.
-    - To run the application on your phone, install Expo Go and scan the QR code (note: the phone and computer must be on the same network).
-6. To access the admin panel, enter the address of the Flask server in the browser: `http://127.0.0.1:5000`.
+- User-friendly voice recording interface.
+- Processing and extraction of vocal features.
+- Preliminary diagnosis using machine learning / AI models.
+- Display of results with personalized recommendations.
+- User history and tracking of past analyses.
+- Dedicated web application for data management and visualization.
+
+## 💡 Technologies Used
+
+- **Mobile Frontend**: Flutter / React Native *(to be confirmed based on codebase)*
+- **Backend**: Node.js / Python Flask / Django *(to be confirmed based on codebase)*
+- **Machine Learning / AI**: Pretrained models for vocal pathology detection.
+- **Database**: Firebase / MongoDB *(to be confirmed based on codebase)*
+- **Web Frontend**: (to be completed based on codebase)
+- **Methodology**: Agile Scrum
+- **Modeling**: UML
+
+## 🚀 Getting Started
+
+> **Please adapt based on the actual technical stack and each component's requirements.**
+
+```bash
+# Clone the repository
+git clone https://github.com/YounesAO/PFA-Vocal-Care.git
+cd PFA-Vocal-Care
+
+# Install dependencies (example for Node.js)
+npm install
+
+# Start the application (example for Node.js)
+npm start
+```
+
+For the mobile and web apps, please refer to their respective directories for specific setup instructions.
+
+## 🗂️ Project Structure
+
+- `/mobile` : Mobile application source code
+- `/backend` : API & AI models
+- `/web` : Web management application
+- `/docs` : Documentation and reports
+
+## 👨‍💻 Authors
+
+- ASSIAB OUJNAH
+- ABDELLAH EL GHARBI
+- YOUNES AIT OUAHDA
+
+**Supervised by Prof. Asmaa EL HANNANI**  
+Chouaib Doukkali University, Department of Telecommunications, Networks and Computer Science  
+Academic year 2023/2024
+
+---
+
+*Please complete the to-be-confirmed sections and enrich as the project evolves or as more details become available.*
